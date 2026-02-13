@@ -1,16 +1,15 @@
-## Hi there 👋
+## My Projects
 
-<!--
-**tbskin/tbskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Eranos](https://github.com/tbskin/potluckpal)** - A potluck-organizing app that helps users organize potlucks, coordinate dishes, and get AI recommendations if they don't know what to bring.
 
-Here are some ideas to get you started:
+- **[Eranos Website](https://github.com/tbskin/eranosos-website)** - Marketing Website for [Eranos](https://github.com/tbskin/potluckpal).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[WeddyOS](https://github.com/tbskin/WeddyyOS)** - A SaaS application for wedding event managers to streamline operations: from vendor management, to contract creation, and much more.
+
+- **[Petala](https://github.com/tbskin/petala_ai)** - An AI-powered application to streamline vendor communication and management on behalf of funeral homes.
+
+- **[MoverBee](https://github.com/tbskin/moverberbee)** - An AI tool designed to streamline moving, relocation, or logistics-related tasks.
+
+- **[VibeCRM](https://github.com/tbskin/vibecrm)** - My personal CRM software built to manage contacts, interactions, and personal relationships.
+
+- **[Instana Tech Tree](https://github.com/tbskin/instana-tech-tree)** - A simple graph to walk through Instana onboarding steps.
