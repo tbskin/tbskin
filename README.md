@@ -16,6 +16,4 @@
 
 - **[VibeCRM](https://github.com/tbskin/vibecrm)** - My personal CRM software built to manage contacts, interactions, and personal relationships.
 
-- **[Instana Tech Tree](https://github.com/tbskin/instana-tech-tree)** - A simple graph to walk through Instana onboarding steps.
-
 - **[Amazon Self-help AI-written E-book](https://a.co/d/0bVeYx8R)** - A book written with early ChatGPT and put up on Amazon. 
