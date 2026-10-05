@@ -1,5 +1,7 @@
 ## My Projects
 
+- **[Stash](https://github.com/tbskin/credit-tracker)** - A free, self-hosted tracker for remaining credits across AI providers and cloud services, with API connections and local browser automation.
+
 - **[Eranos](https://github.com/tbskin/potluckpal)** - A potluck-organizing app that helps users organize potlucks, coordinate dishes, and get AI recommendations if they don't know what to bring.
 
 - **[Eranos Website](https://github.com/tbskin/eranos-website)** - Marketing Website for [Eranos](https://github.com/tbskin/potluckpal).
