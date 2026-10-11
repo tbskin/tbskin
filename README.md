@@ -2,6 +2,8 @@
 
 - **[Beaniebrand](https://beaniebrand.com)** - An AI logo and mascot generator that creates original logos, animated mascots, and ready-to-use brand kits.
 
+- **[Bokeh](https://github.com/tbskin/bokeh-editor)** - An open-source AI video editor that turns your clips and voiceover into captioned reels you can refine through chat. [Website](https://trybokeh.com).
+
 - **[LoopEval](https://github.com/tbskin/loopeval)** - An open-source evaluation framework for AI apps and agents, combining exact checks, Jev, and an LLM fallback that proposes reusable checks for human review.
 
 - **[Stash](https://github.com/tbskin/ai-credit-tracker)** - A free, self-hosted tracker for remaining credits across AI providers and cloud services, with API connections and local browser automation.
