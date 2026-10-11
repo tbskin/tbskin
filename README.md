@@ -4,7 +4,7 @@
 
 - **[LoopEval](https://github.com/tbskin/loopeval)** - An open-source evaluation framework for AI apps and agents, combining exact checks, Jev, and an LLM fallback that proposes reusable checks for human review.
 
-- **[Stash](https://github.com/tbskin/credit-tracker)** - A free, self-hosted tracker for remaining credits across AI providers and cloud services, with API connections and local browser automation.
+- **[Stash](https://github.com/tbskin/ai-credit-tracker)** - A free, self-hosted tracker for remaining credits across AI providers and cloud services, with API connections and local browser automation.
 
 - **[Eranos](https://geteranos.com)** - A potluck-organizing app that helps users organize potlucks, coordinate dishes, and get AI recommendations if they don't know what to bring.
 
