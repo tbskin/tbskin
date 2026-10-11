@@ -1,6 +1,6 @@
 ## My Projects
 
-- **Beaniebrand** - [beaniebrand.com](https://beaniebrand.com) - An AI logo and mascot generator that creates original logos, animated mascots, and ready-to-use brand kits.
+- **[Beaniebrand](https://beaniebrand.com)** - An AI logo and mascot generator that creates original logos, animated mascots, and ready-to-use brand kits.
 
 - **[LoopEval](https://github.com/tbskin/loopeval)** - An open-source evaluation framework for AI apps and agents, combining exact checks, Jev, and an LLM fallback that proposes reusable checks for human review.
 
